@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/board/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/board" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/member/modifyMember.jsp" value="file://$PROJECT_DIR$/src/main/webapp/member" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/order/processAddCart.jsp" value="file://$PROJECT_DIR$/src/main/webapp/order" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/order/processRemoveCart.jsp" value="file://$PROJECT_DIR$/src/main/webapp/order" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/order/processRemoveCartSelected.jsp" value="file://$PROJECT_DIR$/src/main/webapp/order" />
+      </map>
+    </option>
+  </component>
+</project>
